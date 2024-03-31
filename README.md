@@ -5,3 +5,5 @@ Create Virtual environment
 
 Activate the chatbot environment
 
+Telegram Setup has done using BotFather
+
